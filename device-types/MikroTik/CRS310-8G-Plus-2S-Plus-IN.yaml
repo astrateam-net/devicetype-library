@@ -8,6 +8,9 @@ comments: '[CRS310-8G+2S+IN Datasheet](https://mikrotik.com/product/crs310_8g_2s
 is_full_depth: false
 u_height: 1
 airflow: front-to-rear
+front_image: true
+rear_image: true
+is_powered: true
 interfaces:
   - name: ether1
     type: 2.5gbase-t

@@ -4,6 +4,11 @@ model: CRS328-24P-4S+RM
 slug: mikrotik-crs328-24p-4s-plus-rm
 is_full_depth: false
 u_height: 1
+comments: |
+  [Product Page](https://mikrotik.com/product/crs328_24p_4s_rm)
+front_image: true
+rear_image: false
+is_powered: true
 interfaces:
   - name: ether1
     type: 1000base-t
