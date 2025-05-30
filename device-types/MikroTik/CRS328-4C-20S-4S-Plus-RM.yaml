@@ -2,8 +2,14 @@
 manufacturer: MikroTik
 model: CRS328-4C-20S-4S+RM
 slug: mikrotik-crs328-4c-20s-4s-plus-rm
+part_number: CRS328-4C-20S-4S+RM
 is_full_depth: false
 u_height: 1
+comments: |
+  [Product Page](https://mikrotik.com/product/crs328_4c_20s_4s_rm)
+front_image: true
+rear_image: true
+is_powered: true
 interfaces:
   - name: sfp1
     type: 1000base-x-sfp
