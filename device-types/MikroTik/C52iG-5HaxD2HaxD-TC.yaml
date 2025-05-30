@@ -2,6 +2,7 @@
 manufacturer: MikroTik
 model: C52iG-5HaxD2HaxD-TC
 slug: mikrotik-c52ig-5haxd2haxd-tc
+default_platform: RouterOS
 u_height: 1
 is_full_depth: false
 power-ports:
