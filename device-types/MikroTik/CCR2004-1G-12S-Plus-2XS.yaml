@@ -8,7 +8,7 @@ u_height: 1
 comments: |
   [Product Page](https://mikrotik.com/product/ccr2004_1g_12s_2xs)
 front_image: true
-rear_image: false
+rear_image: true
 is_powered: true
 interfaces:
   - name: ether1
